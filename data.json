@@ -1,0 +1,16 @@
+[{
+   "flow" : "normal",
+   "environment" : "i",
+   "combo" : "platinum",
+   "optional" : ["fast", "journey"],
+   "serialNumber" : "coffee",
+   "status" : "0"
+},
+{
+   "flow" : "finish",
+   "environment" : "i",
+   "combo" : "fleet",
+   "optional" : ["fast", "journey"],
+   "serialNumber" : "acdc",
+   "status" : "2"
+}]
